@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <dimen name="column_space">10dp</dimen>
+    <dimen name="poster_bottom_space">8dp</dimen>
+    <dimen name="card_view_bottom_space">20dp</dimen>
+
+</resources>
